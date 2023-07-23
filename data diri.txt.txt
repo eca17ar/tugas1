@@ -3,3 +3,4 @@ Asal : Universitas Bina Bangsa
 Jurusan : Ilmu Komputer
 Jenis Kelamin : Perempuan
 Alamat : TPI 
+umur : 19 tahun
